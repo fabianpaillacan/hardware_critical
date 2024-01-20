@@ -1,0 +1,27 @@
+
+.titulos{
+    color:whitesmoke;
+    text-align: center;
+}
+.nav-enlace{
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(49, 57, 57);
+    color: rgba(255, 255, 255, 0.997);
+    padding: 50px;
+    font-size: 1em;
+    text-decoration: none;
+    margin-inline: 0.5px;
+   
+}
+
+.nav-enlace:hover{
+    background-color: brown;
+}
+.formato{
+    display: flex;
+    justify-content: center;
+    font-size: 1em;
+   
+
+}
