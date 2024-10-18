@@ -24,13 +24,13 @@ p{
 }
 
 .contenedor {
-    display: flex; /* Establece un contenedor flexible */
-    align-items: center; /* Centra verticalmente los elementos dentro del contenedor */
+    display: flex; 
+    align-items: center; 
     background-color: #979090;
 }
 
 .img {
-    flex: 1; /* Aprovecha todo el espacio disponible dentro del contenedor */
+    flex: 1; 
     text-align: right;
     height: 100%;
     
@@ -38,7 +38,7 @@ p{
 }
 
 .img img {
-    max-width: 100%; /* Asegura que la imagen no se desborde del contenedor */
+    max-width: 100%; 
     margin-right: 400px;
   
   
@@ -46,7 +46,7 @@ p{
 }
 
 .texto {
-    flex: 1; /* Aprovecha todo el espacio disponible dentro del contenedor */
+    flex: 1; 
     text-align: left;
     margin-right: 200px;
 }
@@ -60,7 +60,7 @@ p{
 .img2 {
     flex: 1;
     text-align: right;
-    order: 1; /* Cambia el orden de presentación */
+    order: 1; 
     margin-right: 150px;
 }
 
